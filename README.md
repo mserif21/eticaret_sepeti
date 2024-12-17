@@ -1,6 +1,6 @@
 # eticaret_sepeti
 
-provider kullanımı
+e ticaret sepetinde provider kullanımı
 
 ## Getting Started
 
